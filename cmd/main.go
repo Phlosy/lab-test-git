@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, this is main branch!")
+	fmt.Println("Hello, this is dev branch!")
 }
